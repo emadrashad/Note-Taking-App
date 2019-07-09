@@ -1,4 +1,8 @@
-# note_taking_app
+# Note Taking Application using vue js 
+this app simply record your notes according to the date they have been taken 
+
+## Demo 
+![Screenshot](https://i.ibb.co/brBMsKH/note-taking-app.gif)
 
 ## Project setup
 ```
